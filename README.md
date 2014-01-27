@@ -1,6 +1,6 @@
 ## Sample Launch Code Repo
 
-This is an example of a Launch Code repo to be used with the [Two-Man Rule Raspberry Pi Launched](https://github.com/aterris/two_man)
+This is an example of a Launch Code repo to be used with the [Two-Man Rule Raspberry Pi Launcher](https://github.com/aterris/two_man)
 
 ##### Custom Launch Codes
 
