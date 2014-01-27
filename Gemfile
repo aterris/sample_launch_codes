@@ -1,0 +1,1 @@
+gem 'jenkins_api_client'
