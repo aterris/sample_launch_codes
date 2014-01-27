@@ -2,8 +2,13 @@
 
 This is an example of a Launch Code repo to be used with the [Two-Man Rule Raspberry Pi Launcher](https://github.com/aterris/two_man)
 
-##### custom_launch_code.rb
+##### Custom Launch Codes
 
+* Must be a sub-module of LaunchCode
+* File name should be snake case of module name
+* Module must have a launch method
+
+###### custom_launch_code.rb
 ````
 module LaunchCode
   module CustomLaunchCode
